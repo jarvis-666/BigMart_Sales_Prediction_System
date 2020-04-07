@@ -1,0 +1,17 @@
+Respected Recipient
+
+Plz proceed in the following manner to run the three Python scripts:
+1. First open and run the script ML_Project.py to preprocess the data and construct the modified datasets and other information about the type of features.
+
+2. Then open and run the script general_model.py that creates a function which can be used by any of the models used in the project.
+
+3. Finally, open and run the script models.py that contains the models used in our project till now.
+
+4. As an extra effort, we have included a PCA script PCA1.py, in which we have implemented Principal Component Analysis in the modified datasets and then used the same models as applied in the above scripts. Run this file at the end.
+
+The modified datasets will appear in the same folder and the information about the regression models used will also appear in the same folder itself in the form of .txt files, when the corresponding scripts are run.
+
+We created the project completely on Spyder(Python 3.7)
+
+Made by- Vinayak Mehrotra (vm897@snu.edu.in)
+	 Sachin Mavi (sm790@snu.edu.in)
